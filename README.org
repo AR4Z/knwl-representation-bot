@@ -1,0 +1,15 @@
+* Pasos para poner a funcionar el programa
+1. instalar conda
+2. crear un ambiente de trabajo
+   conda create -n cualquierCosa python=3.7
+3. cambiar a dicho ambiente
+   conda activate cualquierCosa
+4. Asegurarse que se esta en dicho ambiente (por el asterisco)
+   conda env list
+5. instalar chatterbot y chatterbot-corpus
+   pip install chatterbot chatterbot-corpus
+6. Correr el programa llamado chatbot.py
+   
+* Documentacion
++ https://chatterbot.readthedocs.io/en/stable/quickstart.html
++ https://chatterbot.readthedocs.io/en/stable/training.html
