@@ -7,6 +7,7 @@
 4. Asegurarse que se esta en dicho ambiente (por el asterisco)
    + conda env list
 5. Instalar dependencias
+   + cd kwnl-representation-bot/
    + pip install -r requirements.txt
 6. Correr el programa llamado chatbot.py
    
