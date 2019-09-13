@@ -2,15 +2,7 @@ from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
 
 
-bot = ChatBot(
-    'Norman',
-    storage_adapter='chatterbot.storage.SQLStorageAdapter',
-    logic_adapters=[
-        'chatterbot.logic.MathematicalEvaluation',
-        'chatterbot.logic.TimeLogicAdapter'
-    ],
-    database_uri='sqlite:///database.sqlite3'
-)
+bot = ChatBot('Norman')
 
 trainer = ListTrainer(bot)
 
