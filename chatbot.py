@@ -17,7 +17,8 @@ bot = ChatBot('Norman',
         }
     ],
     preprocessors=[
-        'chatterbot.preprocessors.clean_whitespace'
+        'chatterbot.preprocessors.clean_whitespace',
+        'chatterbot.preprocessors.convert_to_ascii'
     ],
     read_only=True)
 
