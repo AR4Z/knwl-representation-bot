@@ -1,0 +1,39 @@
+categories:
+- semantic-networks
+- conversations
+conversations:
+- - Que son Redes Semánticas
+  - Las Redes Semánticas son sistemas de organización del conocimiento que estructuran los conceptos, 
+    no como una jerarquía sino como una red
+- - Que son Redes Semánticas
+  - Es un conjunto de nodos y arcos, es decir, un grafo dirigido; el cual es una representación visual de
+    conocimiento
+- - Que papel juegan los nodos del grafo en una Red Semántica
+  - Básicamente los nodos de la Red Semántica son objetos
+- - Que papel juegan los arcos del grafo en una Red Semántica
+  - Estos indican las relaciones que hay entre los distintos 
+    objetos dentro de la estructura de conocimiento
+- - Puedes dar un ejemplo de los nodos en una Red Semántica
+  - "Si, claro. Los objetos que representa un nodo pueden ser: Personas, 
+    Animales, Eventos, Acciones, Conceptos, etc."
+- - De dónde vienen
+  - Estan inspiradas en la psicología cognitiva la cual afirma que la representación y recuperación 
+    del conocimiento se realiza a partir de sus relaciones.
+- - Que tipo de relaciones hay en una red semantica?
+  - todo - parte, causa - efecto, padre - niño, "es un" o "es parte"
+- - Cual es el mecanismo de inferencia básico en las redes semánticas
+  - La herencia de propiedades
+- - Que es un enlace en una Red Semantica
+  - Son una aseveración respecto de un elemento con relación a otro
+    Un enlace es una relación binaria. Los mas comunes son es-un y parte-de
+- - Puedes dar un ejemplo de enlace es-un
+  - "Claro que si: caballo es-un mamifero"
+- - Puedes dar un ejemplo de enlace parte-de
+  - "Claro que si: cola parte-de caballo"
+- - Que es la herencia en una red semantica
+  - Con la herencia se puede entender y razonar de mejor manera la información que se posee, pudiendo reutilizar la
+    información y asi simplificar un poco los datos que puedan llegar a ser obtenidos
+- - Que es la confrontación en una red semantica
+  - Es una operación utilizada para responder a consultas del usuario
+
+
