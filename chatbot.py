@@ -25,6 +25,7 @@ bot = ChatBot('Norman',
 trainer = ChatterBotCorpusTrainer(bot)
 trainer.train(
     "chatterbot.corpus.spanish.greetings",
+    "./data/knwl-representation.yml",
    "./data/semantic-networks.yml"
 )
 
