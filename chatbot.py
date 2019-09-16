@@ -23,7 +23,7 @@ bot = ChatBot('Norman',
 
 trainer = ChatterBotCorpusTrainer(bot)
 trainer.train(
-    "chatterbot.corpus.spanish",
+    "chatterbot.corpus.spanish.greetings",
    "./data/semantic-networks.yml"
 )
 
