@@ -1,6 +1,12 @@
 categories:
 - lógica de predicados
 conversations:
+- - bien
+  - me alegra...quieres aprender algo nuevo hoy?
+- - "si"
+  - que bien preguntame sobre representaciones del conocimiento
+- - "no"
+  - que lastima porque te podria enseñar muchas cosas sobre representacion del cnocimiento
 - - Que es lógica
   - Es el estudio del razonamiento y si este es correcto. 
   - Parte de la filosofía que estudia las formas y principios generales que rigen el conocimiento y el pensamiento humano, considerado puramente en sí mismo, sin referencia a los objetos.
@@ -20,8 +26,8 @@ conversations:
   - El alfabeto es un sistema ordenado de signos gráficos que se emplea en la escritura de algunas lenguas y que se basa en la correspondencia más o menos aproximada entre estos signos y los fonemas que representan.
 - - Cuales son las partes del alfabeto?
   - En el alfabeto existen varias partes las contantes, variables, las funciones, el predicado, las conjunciones,los cuantificadores y los atomos.
-- - Cuales son las constantes?		
-  - Las constantes son términos que se usan para representar argumentos de predicados que no cambian en un proceso de inferencia.
+- - Cuales son las constantes?
+  - Las constantes son términooos que se usan para representar argumentos de predicados que no cambian en un proceso de inferencia.
 - - Cuales son las variables?
   - Las variables son términos que se usan para representar argumentos de predicados que pueden variar en un proceso de inferencia.
 - - Cuales son las funciones?
