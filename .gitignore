@@ -2,3 +2,4 @@ database.sqlite3
 sentence_tokenizer.pickle
 db.sqlite3
 .vscode
+.idea
