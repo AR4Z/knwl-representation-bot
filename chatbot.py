@@ -27,7 +27,8 @@ trainer.train(
     "chatterbot.corpus.spanish.greetings",
     "./data/knwl-representation.yml",
    "./data/semantic-networks.yml",
-    "./data/logicaPredicados.yml"
+    "./data/logicaPredicados.yml",
+    "./data/frames.yml"
    )
 
 while True:
