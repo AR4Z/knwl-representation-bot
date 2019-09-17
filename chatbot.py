@@ -6,7 +6,7 @@ from chatterbot.trainers import ListTrainer
 from chatterbot.trainers import ChatterBotCorpusTrainer
 from chatterbot.logic import BestMatch
 
-bot = ChatBot('Norman', 
+bot = ChatBot('Norman',
     logic_adapters=[
         {
             'import_path': 'chatterbot.logic.BestMatch',
@@ -26,6 +26,7 @@ trainer = ChatterBotCorpusTrainer(bot)
 trainer.train(
     "chatterbot.corpus.spanish.greetings",
     "./data/knwl-representation.yml",
+    "./data/production-rules.yml",
    "./data/semantic-networks.yml"
 )
 
