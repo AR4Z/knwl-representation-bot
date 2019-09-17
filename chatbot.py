@@ -26,8 +26,9 @@ trainer = ChatterBotCorpusTrainer(bot)
 trainer.train(
     "chatterbot.corpus.spanish.greetings",
     "./data/knwl-representation.yml",
-   "./data/semantic-networks.yml"
-)
+   "./data/semantic-networks.yml",
+    "./data/logicaPredicados.yml"
+   )
 
 while True:
     try:
