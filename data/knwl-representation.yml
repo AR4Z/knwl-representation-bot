@@ -1,5 +1,11 @@
 categories:
 - knwl-representation
 conversations:
-- - qué es Representación del Conocimiento
+- - qué es representación del conocimiento
   - es un área de la Inteligencia Artificial cuyo objetivo fundamental es representar el de una manera que facilite la inferencia (sacar conclusiones) a partir de dicho conocimiento
+- - cuales son las representaciones del conocimiento
+  - los tipos de representacion del conocimiento son la logica de predicados, las redes semanticas, los frames y los sistemas de produccion...preguntame lo que quieras sobre ellos. 
+- - que implica representar conocimiento
+  - la representacion de conocimiento implica definir los símbolos que permitirán representar el problema y la forma de usarlos buscando poder inferir nuevo conocimiento.
+- - cuales son los tipos de representacion de conocimiento?
+  - los tipos de representacion del conocimiento son la logica de predicados, las redes semanticas, los frames y los sistemas de produccion preguntame lo que quieras sobre estos. 

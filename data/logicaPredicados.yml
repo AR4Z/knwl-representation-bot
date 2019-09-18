@@ -1,6 +1,8 @@
 categories:
 - lógica de predicados
 conversations:
+- - que mas?
+  - todo super bien y tu?
 - - bien
   - super!,quieres aprender algo nuevo hoy?
 - - super bien 
@@ -11,6 +13,8 @@ conversations:
   - que bien preguntame sobre representaciones del conocimiento
 - - "no"
   - que lastima porque te podria enseñar muchas cosas sobre representacion del cnocimiento
+- - bueno
+  - perfecto entonces preguntame lo que quieras sobre representaciones del conocimiento
 - - que es lógica
   - es el estudio del razonamiento y si este es correcto. 
   - Parte de la filosofía que estudia las formas y principios generales que rigen el conocimiento y el pensamiento humano, considerado puramente en sí mismo, sin referencia a los objetos.
