@@ -1,0 +1,52 @@
+categories:
+- production-rules
+- conversations
+conversations:
+- - que es un sistema de producción
+  - es un programa que provee inteligencia artificial el cual consiste de un conjunto de reglas de comportamiento
+    y un mecanismo encargado de seguir dichas reglas.
+- - que son reglas de producción
+  - es un programa que provee inteligencia artificial el cual consiste de un conjunto de reglas de comportamiento
+    y un mecanismo encargado de seguir dichas reglas.
+- - definición de un sistema de producción
+  - es la forma mas utilizada para la creación de la base conocimientos en los sistemas expertos y en general
+    en sistemas basados en conocimientos
+- - definición de reglas de producción
+  - es la forma mas utilizada para la creación de la base conocimientos en los sistemas expertos y en general
+    en sistemas basados en conocimientos.
+- - que es el conocimiento
+  - la base del conocimiento esta representado por reglas heurísticas definidas por un experto en la materia.
+- - cual es la base del conocimiento
+  - la base del conocimiento esta representado por reglas heurísticas definidas por un experto en la materia y hechos.
+- - que es la memoria de trabajo
+  - es el estado actual en el que se encuentra el programa
+- - que es el interpretador del sistema
+  - es el encargado de examinar las reglas y determinar cuales debe ejecutar, también resuelve los conflictos
+- - cuales son los componentes de un sistema de producción
+  - los componentes son Base de hechos, base de reglas y el motor de inferencia.
+- - que es la base de hechos
+  - la base hechos contiene hechos iniciales y también los hechos deducidos.
+- - que es la base de reglas
+  - la base de reglas contiene las reglas que explotan los hechos.
+- - que es el motor de inferencia
+  - el motor de inferencia es el software que aplica las reglas a los hechos haciendo uso de razonamientos.
+- - en que se dividen los sistemas de producción
+  - en una parte declarativa (hechos, reglas, meta-reglas) y en una parte algorítmica (el motor de inferencia).
+- - que son las meta-reglas
+  - las meta-reglas se le conocen como el conocimiento declarativo sobre el empleo de las reglas.
+- - cuales son los pasos para la interpretación de las reglas 
+  - reconocimiento, ejecución y resolución de conflictos
+- - que es el reconocimiento
+  - es la comparación de los patrones en las reglas con los elementos de la memoria de trabajo.
+- - que es la ejecución de las reglas
+  - es el encargado de hacer cambios en la memoria de trabajo
+- - que es la resolución de conflictos
+  - es el encargado de elegir una regla de entre las satisfechas por la memoria de trabajo y ejecutar su parte.
+- - cual es la estructura de representación los sistemas de producción 
+  - Normalmente se puede presentar conocimiento en forma de reglas de if-else 
+- - cuales son los métodos de inferencia para los sistemas de producción 
+  - Métodos de búsqueda con encadenamiento adelante y atrás
+- - los sistemas de producción manejan la herencia?
+  - no
+- - cual es la naturalidad de expresión para los sistemas de producción
+  - reglas de decisión escritas casi en lenguaje natural
