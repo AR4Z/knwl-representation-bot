@@ -10,7 +10,6 @@ bot = ChatBot('Norman',
         {
             'import_path': 'chatterbot.logic.BestMatch',
             "statement_comparison_function": levenshtein_distance,
-            "response_selection_method": get_most_frequent_response,
             'maximum_similarity_threshold': 0.90,
             'default_response': 'Disculpa, no te he entendido bien, mi único conocimiento es acerca de Representación del Conocimiento. ¿Puedes ser más específico?.'
         }
@@ -19,11 +18,12 @@ bot = ChatBot('Norman',
         'chatterbot.preprocessors.clean_whitespace',
         'chatterbot.preprocessors.convert_to_ascii'
     ],
+    tie_breaking_method="random_response",
     read_only=True)
 
 trainer = ChatterBotCorpusTrainer(bot)
 trainer.train(
-    "chatterbot.corpus.spanish.greetings",
+    "./data/basicES.yml",
     "./data/knwl-representation.yml",
     "./data/production-rules.yml",
    "./data/semantic-networks.yml",
