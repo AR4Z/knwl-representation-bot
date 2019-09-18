@@ -11,7 +11,7 @@ bot = ChatBot('Norman',
             'import_path': 'chatterbot.logic.BestMatch',
             "statement_comparison_function": levenshtein_distance,
             "response_selection_method": get_most_frequent_response,
-            'maximum_similarity_threshold': 0.51,
+            'maximum_similarity_threshold': 0.90,
             'default_response': 'Disculpa, no te he entendido bien, mi único conocimiento es acerca de Representación del Conocimiento. ¿Puedes ser más específico?.'
         }
     ],
