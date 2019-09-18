@@ -2,44 +2,25 @@ categories:
 - frames
 conversations:
 - - que son frames
-- - ¿que son frames?
-- - que son frames?
-- - frames
   - es una forma de organizar la informacion referente a un objeto algo similar a una base de datos
 - - cuentame mas
-- - dime mas
-- - dame mas informacion
-- - Mas
   - esta estructura es usada en una red semantica
   - permite expresar el conocimiento declarativo y procedimental
-- - que es una red semantica
-- - red semantica
-  - es una forma de representacion de conocimiento linguisto en la que sus relaciones se representan mediante grafos.
 - - que es conocimiento declarativo
-- - conocimiento declarativo
   - es informacion consistente en hechos, conceptos o ideas conocidas conscientemente y que se pueden almacenar como proposiciones.
 - - que es conocimiento linguistico
-- - conocimiento linguistico
   - consiste en el conocimiento del vocabulario y de los patrones de las oraciones.
 - - volvamos a los frames
-- - volvamos al tema principal
-- - tema Principal
   - qué mas quieres saber acerca de los frames?
 - - no lo se tu dime
-- - tu eres la experiencia aca
-- - dime tu
   - bueno, un frame representa un objeto o situación describiendo la colección de atributos que posee y reflejan un conocimiento estático del mundo.
 - - como estan conformados
-- - que los conforman
-- - como se componen
   - están formados por un nombre y una serie de atributos (slots), que poseen valores y describen una entidad del mundo.
-- - slots?
-- - slots
-- O Ranuras tambien soy bilingue ;) 
+- - que son los slots
+  - O Ranuras tambien soy bilingue ;)
 - - dime mas sobre los slots
   - cada slot puede contener uno o más enlaces (facets)
-- - Facets
-- - facets?
+- - que son los facets
   - son enlaces con valores asociados
 
 
